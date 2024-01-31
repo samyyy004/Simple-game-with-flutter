@@ -1,4 +1,4 @@
-# second_app
+# Game-App
 
 A new Flutter project.
 
